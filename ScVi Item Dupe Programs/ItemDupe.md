@@ -9,10 +9,12 @@
 1. Follow Microcontroller guide by Pokemon Automation [here](https://github.com/PokemonAutomation/Microcontroller "here")
 2. Setup Item Duplication Glitch with Legendary in **FIRST PARTY SLOT** by following [this video guide](https://www.youtube.com/watch?v=staa9Fv0Rwo "this video guide")
 3. Ensure you are **INDOORS** and have the X Menu **CLOSED**
-4. Download program(s) from **THIS REPOSITORY**
-5. Copy and Past program to "CustomProgram_Core.md"
-6. Compile Item Duplication.hex file for your board
-7. Plug into switch and run!
+4. Keep your cursor at **BOX 1 SLOT 1**
+5. Download program(s) from **THIS REPOSITORY**
+6. Copy and Past program to "CustomProgram_Core.md"
+7. Compile Item Duplication.hex file for your board
+8. Navigate to "Change Grip/Order" menu on switch
+9. Plug into switch and run!
 
 ## Settings
 None
