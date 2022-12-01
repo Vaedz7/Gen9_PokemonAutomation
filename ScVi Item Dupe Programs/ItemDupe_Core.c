@@ -50,6 +50,8 @@ pbf_wait(100);
 pbf_press_dpad(DPAD_LEFT, 5, 5);
 pbf_wait(100);
 pbf_press_dpad(DPAD_UP, 500, 5);
+pbf_wait(100);
+pbf_press_button(BUTTON_X, 5, 5);
 
 while (true){
 	// DELAY START
