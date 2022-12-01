@@ -18,7 +18,7 @@
 // Teensy 2++ - STABLE
 // Arduino Leonardo - STABLE
 // Arduino UNO R3 - STABLE
-// Pro Micro - UNTESTED
+// Pro Micro - STABLE
 
 #include "Common/PokemonSwSh/PokemonProgramIDs.h"
 #include "NativePrograms/DeviceFramework/DeviceSettings.h"
