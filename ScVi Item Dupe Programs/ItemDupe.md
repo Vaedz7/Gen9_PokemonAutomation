@@ -12,7 +12,7 @@
 4. Keep your cursor at **BOX 1 SLOT 1**
 5. Download program(s) from **THIS REPOSITORY**
 6. Copy and Past program to "CustomProgram_Core.md"
-7. Compile Item Duplication.hex file for your board
+7. Compile ItemDupe.hex file for your board
 8. Navigate to "Change Grip/Order" menu on switch
 9. Plug into switch and run!
 
