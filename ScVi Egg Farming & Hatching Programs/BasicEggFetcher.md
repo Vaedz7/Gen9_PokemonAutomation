@@ -10,7 +10,7 @@
 2.5. Use sandwiches/food to boost egg power
 3. Stand in front of egg basket
 4. Download program(s) from **THIS REPOSITORY**
-5. Copy and Paste program to "CustomProgram_Core.md"
+5. Copy and Paste program to "CustomProgram_Core.c"
 6. Compile BasicEggFetcher.hex file for your board
 7. Navigate to "Change Grip/Order" menu on switch
 8. Plug into switch and run!
