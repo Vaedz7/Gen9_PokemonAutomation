@@ -19,7 +19,7 @@
 ## Settings
 None
 
-## About Peogram
+## About Program
 This program duplicates items until x999. The program automatically checks and fixes any failures
 
 
