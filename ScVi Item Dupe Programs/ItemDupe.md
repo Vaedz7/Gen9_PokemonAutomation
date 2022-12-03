@@ -11,7 +11,7 @@
 3. Ensure you are **INDOORS** and have the X Menu **CLOSED**
 4. Keep your cursor at **BOX 1 SLOT 1**
 5. Download program(s) from **THIS REPOSITORY**
-6. Copy and Paste program to "CustomProgram_Core.md"
+6. Copy and Paste program to "CustomProgram_Core.c"
 7. Compile ItemDupe.hex file for your board
 8. Navigate to "Change Grip/Order" menu on switch
 9. Plug into switch and run!
