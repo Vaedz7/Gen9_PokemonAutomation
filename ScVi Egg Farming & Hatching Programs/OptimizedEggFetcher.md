@@ -1,4 +1,5 @@
 # **Optimized Egg Fetching in Pokemon Scarlet and Violet**
+**DISCLAIMER: This program may start making a sandwich and waste your ingredients. Run at your own risk**
 
 ## Credits
 - [Vaedz7](https://github.com/Vaedz7 "Vaedz7")
