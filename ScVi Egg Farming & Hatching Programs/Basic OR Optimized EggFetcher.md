@@ -7,7 +7,7 @@
 ## Setup
 1. Follow Microcontroller guide by Pokemon Automation [here](https://github.com/PokemonAutomation/Microcontroller "here")
 2. Start a picnic with 2 compatible Pokemon
-2.5. Use sandwiches/food to boost egg power
+- 2.5. Use sandwiches/food to boost egg power
 3. Stand in front of egg basket
 4. Download program(s) from **THIS REPOSITORY**
 5. Copy and Paste program to "CustomProgram_Core.c"
