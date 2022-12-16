@@ -34,8 +34,6 @@
 #include "NativePrograms/PokemonSwSh/Libraries/PokemonSwSh_Settings.h"
 
 int resetFail = 0;
-int incConst = 1;
-bool oddCycle = true;
 
 int main(void){
 // START PROGRAM ON MICROCONTROLLER
@@ -86,16 +84,22 @@ while (true){
 
 	// GO TO LEGENDARY
 	pbf_press_dpad(DPAD_LEFT, 5, 105);
+	resetFail++;
 
 	// CHECK FAILURE EVERY 2 CYCLES
-  pbf_press_button(BUTTON_B, 5, 105);
-  pbf_press_button(BUTTON_B, 5, 105);
-  pbf_press_button(BUTTON_B, 5, 105);
-  pbf_press_button(BUTTON_B, 5, 105);
-  pbf_press_button(BUTTON_PLUS, 5, 375);
-  pbf_press_button(BUTTON_A, 5, 105);
-  pbf_move_left_joystick(0x80, 0xff, 2, 105);
-  pbf_press_button(BUTTON_X, 5, 105);
+if (resetFail = 2) {
+    pbf_press_button(BUTTON_B, 5, 105);
+    pbf_press_button(BUTTON_B, 5, 105);
+    pbf_press_button(BUTTON_B, 5, 105);
+    pbf_press_button(BUTTON_B, 5, 105);
+    pbf_press_button(BUTTON_PLUS, 5, 375);
+    pbf_press_button(BUTTON_A, 5, 105);
+    pbf_move_left_joystick(0x80, 0xff, 2, 105);
+    pbf_press_button(BUTTON_X, 5, 105);
+    pbf_press_dpad(DPAD_LEFT, 5, 105);
+    pbf_press_dpad(DPAD_UP, 500, 105);
+    pbf_press_dpad(DPAD_DOWN, 5, 105);
+};
 }
 	//EXIT TO IDLE MODE (NEVER USED)
 	pbf_press_button(BUTTON_HOME, 10, PokemonSwSh_GAME_TO_HOME_DELAY_SAFE);
