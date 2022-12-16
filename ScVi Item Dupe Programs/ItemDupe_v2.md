@@ -40,4 +40,4 @@ This program duplicates items until x999. The program automatically checks and f
 
 
 ## Issues
-Contact Vaedz#1011 or Jack Mutsers#2563 on Discord to resolve issues
+Contact Vaedz#1011 on Discord to resolve issues
